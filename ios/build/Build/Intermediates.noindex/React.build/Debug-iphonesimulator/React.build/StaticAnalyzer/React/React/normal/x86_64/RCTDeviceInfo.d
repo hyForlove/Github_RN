@@ -1,0 +1,15 @@
+dependencies: \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Modules/RCTDeviceInfo.m \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Modules/RCTDeviceInfo.h \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Modules/RCTAccessibilityManager.h \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/UIUtils/RCTUIUtils.h \
+  /Users/works/React-Native/Github_RN/node_modules/react-native/React/Base/RCTUtils.h

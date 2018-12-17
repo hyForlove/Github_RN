@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>99A8BDEB-7EEA-4857-99D0-5419EBEBB0C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99A8BDEB-7EEA-4857-99D0-5419EBEBB0C5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Github_RN project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Github_RN</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Github_RN with scheme Github_RN and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>566751053.76899695</real>
+			<key>timeStoppedRecording</key>
+			<real>566751057.81664801</real>
+			<key>title</key>
+			<string>Building project Github_RN with scheme Github_RN and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>99A8BDEB-7EEA-4857-99D0-5419EBEBB0C5</string>
+		</dict>
+		<key>A3941875-15C0-49C1-A4EF-A033F4CC4112</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A3941875-15C0-49C1-A4EF-A033F4CC4112.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Github_RN project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Github_RN</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Github_RN with scheme Github_RN and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>566750796.43824005</real>
+			<key>timeStoppedRecording</key>
+			<real>566750800.79175401</real>
+			<key>title</key>
+			<string>Building project Github_RN with scheme Github_RN and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A3941875-15C0-49C1-A4EF-A033F4CC4112</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
